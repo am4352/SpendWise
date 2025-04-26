@@ -1,4 +1,4 @@
-# Expense Tracker
+# SpendWise
 
 A simple mobile application built with the intention of providing a clean, responsive and attractive UI for entering and managing expenses.
 |                              Home                               |                             Add Expense                             |
@@ -18,12 +18,6 @@ Go to the project directory
 
 ```bash
   cd expense-tracker-app
-```
-
-Optional
-
-```bash
-Create a local.properties file with sdk location in the android folder if needed.
 ```
 
 Install dependencies
