@@ -10,7 +10,7 @@ const FormButton = ({buttonTitle, ...rest}) => {
     </TouchableOpacity>
   );
 };
-
+// FormButton section started working
 export default FormButton;
 
 const styles = StyleSheet.create({
