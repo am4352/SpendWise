@@ -12,7 +12,7 @@ import {
   secondaryColor,
   textColor,
 } from '../utils/GlobalStyle';
-
+//transaction screen function
 const AddTransactionScreen = ({
   navigation,
   route,
