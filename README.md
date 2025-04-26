@@ -12,13 +12,13 @@ It promotes smart budgeting, prevents overspending, and supports better financia
 Clone the project
 
 ```bash
-  git clone https://github.com/arsan13/expense-tracker-app.git
+  git clone https://github.com/am4352/SpendWise
 ```
 
 Go to the project directory
 
 ```bash
-  cd expense-tracker-app
+  cd SpendWise
 ```
 
 Install dependencies
