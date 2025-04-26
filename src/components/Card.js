@@ -18,7 +18,7 @@ const Card = ({item}) => {
     </View>
   );
 };
-
+// card section stated working 
 export default Card;
 
 const styles = StyleSheet.create({
