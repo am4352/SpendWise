@@ -17,7 +17,7 @@ const Index = () => {
     setToken(value);
     setLoading(false);
   };
-
+console.log('Token:', token);
   useEffect(() => {
     // Check async storage if user is logged in
     (async function () {
