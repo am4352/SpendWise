@@ -1,6 +1,7 @@
 # SpendWise
 
-A simple mobile application built with the intention of providing a clean, responsive and attractive UI for entering and managing expenses.
+SpendWise helps users easily track expenses and gain control over their finances.
+It promotes smart budgeting, prevents overspending, and supports better financial planning with simple and real-time tracking.
 |                              Home                               |                             Add Expense                             |
 | :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
 | <img src="src/assets/screenshots/home-screen.jpeg" width="200"> | <img src="src/assets/screenshots/add-transaction.jpeg" width="200"> |
