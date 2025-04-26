@@ -1,9 +1,10 @@
 # Expense Tracker
 
 A simple mobile application built with the intention of providing a clean, responsive and attractive UI for entering and managing expenses.
-|                              Home                               |                             Add Expense                             |                           Categories                           |                             History                              |
-| :-------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="src/assets/screenshots/home-screen.jpeg" width="200"> | <img src="src/assets/screenshots/add-transaction.jpeg" width="200"> | <img src="src/assets/screenshots/categories.jpeg" width="200"> | <img src="src/assets/screenshots/transactions.jpeg" width="200"> |
+|                              Home                               |                             Add Expense                             |
+| :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="src/assets/screenshots/home-screen.jpeg" width="200"> | <img src="src/assets/screenshots/add-transaction.jpeg" width="200"> |
+
 
 ## Run Locally
 
