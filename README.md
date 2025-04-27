@@ -1,25 +1,24 @@
-# Expense Tracker
+# SpendWise
 
-A simple mobile application built with the intention of providing a clean, responsive and attractive UI for entering and managing expenses.
+SpendWise helps users easily track expenses and gain control over their finances.
+It promotes smart budgeting, prevents overspending, and supports better financial planning with simple and real-time tracking.
+|                              Home                               |                             Add Expense                             |
+| :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="src/assets/screenshots/home-screen.jpeg" width="200"> | <img src="src/assets/screenshots/add-transaction.jpeg" width="200"> |
+
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/arsan13/expense-tracker-app.git
+  git clone https://github.com/am4352/SpendWise
 ```
 
 Go to the project directory
 
 ```bash
-  cd expense-tracker-app
-```
-
-Optional
-
-```bash
-Create a local.properties file with sdk location in the android folder if needed.
+  cd SpendWise
 ```
 
 Install dependencies
